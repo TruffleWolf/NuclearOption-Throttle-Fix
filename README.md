@@ -1,6 +1,6 @@
 # Nuclear Option Throttle Patch
 
-A BepInEx plugin for altering the throttle behavior for trigger throttle control.
+A BepInEx plugin for altering the throttle behavior for trigger throttle control. Use if you're playing the game with both triggers controlling the throttle.
 
 ---
 
